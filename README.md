@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm passionate about building enterprise-scale AI solution
 
 ### 🔥 Current Focus
 - 🚀 Scaling Agents powereed GenAI applications in enterprise environments with evals to simplyfy model upgrades
+- replace enterprise Applications with finetuned SLM's instead of using closed source LLM's like OpenAI and Claude
 - 🔬 Experimenting with latest open-source LLMs
 - 🏗️ Building robust MLOps pipelines
 - 📚 Contributing to open-source AI tools
