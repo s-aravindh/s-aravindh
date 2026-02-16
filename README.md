@@ -1,6 +1,7 @@
 # Aravindh Subbaraj 
 
-[linkedin.com/in/imaravindh](http://linkedin.com/in/imaravindh)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/imaravindh)
 
 ## Professional Summary:
 **Lead AI Consultant with 10 years of experience** delivering production AI systems across banking, finance, insurance, and government sectors. Specialized in building enterprise Agentic AI  applications, RAG platforms, and fine-tuned LLMs that solve real business problems. Led teams and worked hands-on as IC to ship 15+ AI products serving 2000+ users with 95% satisfaction. Equally comfortable presenting AI strategy to C-suite, architecting cloud-agnostic solutions (AWS, GCP, on-premise), fine-tuning foundation models, and establishing AI governance frameworks for regulatory compliance.
