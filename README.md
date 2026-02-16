@@ -1,60 +1,39 @@
-# Hi there! 👋 I'm Aravindh Subbaraj, 
+# **Aravindh Subbaraj | Lead AI Consultant** 
 
-**Senior AI Engineer** | GenAI Specialist | MLOps Expert
+[linkedin.com/in/imaravindh](http://linkedin.com/in/imaravindh)
 
-Welcome to my GitHub! I'm passionate about building enterprise-scale AI solutions that make a real impact. Currently working as a Senior AI Engineer at Credit Agricole Corporate Investment Bank, where I lead teams developing cutting-edge GenAI applications.
+---
 
-### 🔥 Current Focus
-- 🚀 Scaling Agents powereed GenAI applications in enterprise environments with evals to simplyfy model upgrades
-- replace enterprise Applications with finetuned SLM's instead of using closed source LLM's like OpenAI and Claude
-- 🔬 Experimenting with latest open-source LLMs
-- 🏗️ Building robust MLOps pipelines
-- 📚 Contributing to open-source AI tools
+**Professional Summary:**  
+**Lead AI Consultant with 10 years of experience** delivering production AI systems across banking, finance, insurance, and government sectors. Specialized in building enterprise Agentic AI  applications, RAG platforms, and fine-tuned LLMs that solve real business problems. Led teams and worked hands-on as IC to ship 15+ AI products serving 2000+ users with 95% satisfaction. Equally comfortable presenting AI strategy to C-suite, architecting cloud-agnostic solutions (AWS, GCP, on-premise), fine-tuning foundation models, and establishing AI governance frameworks for regulatory compliance.
 
-### 🏆 Key Achievements and Products I helped Build over my career
-- 🤖 **Enterprise GenAI Applications**: Agents Powered AI Applications, Finetuning LLM for Specific Enterprise Business Usecases & Evals
-- 🔄 **Legacy Code Modernization**: Using LLMs to migrate COBOL/JAVA systems to modern languages
-- 📊 **Document Intelligence**: Creating high-accuracy OCR and document processing solutions
-- ⚡ **MLOps**: Optimizing model deployments and bridging Data Science to Production
+**Active contributor to the AI community**, mentoring students transitioning into AI careers through weekend technical sessions across US and European time zones, helping bridge the gap between traditional software engineering and modern AI development.
 
-### 🛠️ Tech Stack
+**Leadership & Consulting Highlights:**
 
-**AI/ML & GenAI**
-- 🧠 LLMs, GenAI, RAG Architecture, LLM Fine-tuning
-- 🔍 Computer Vision, OCR, Document AI, Neural Networks
-- 📈 ONNX/TensorRT Optimization, Model Deployment
+* Led strategic AI initiatives for enterprise clients, conducting build-vs-buy evaluations and infrastructure assessments to optimize tooling and deployment decisions  
+* Partnered directly with C-suite and business unit leaders (Capital Markets, Compliance, Risk, Audit) to translate operational challenges into scalable AI solutions  
+* Architected and delivered 15+ production AI applications, serving 2000+ users with 95% satisfaction across banking, insurance, and government sectors.  
+* Built and led 10-person AI team, hiring talent, mentoring engineers, and establishing ML best practices that improved delivery velocity  
+* Deployed and fine-tuned foundation models (Gemma, Qwen, LayoutLM, CLIP) for domain-specific applications including AI security, code modernization, and document intelligence  
+* Designed AI governance frameworks aligned with EU AI Act and Singapore MAIGF, implementing LLM-as-a-Judge evaluation and human-in-the-loop review  
+* Built and scaled LLM infrastructure across on-premise and AWS environments, enabling secure GenAI adoption across multiple business units  
+* Recognized as Top Performer for 3 consecutive years in Credit Agricole Bank.
 
-**Cloud & Infrastructure**
-- ☁️ AWS (EC2, Lambda, S3, Bedrock), RunAI
-- 🐳 Docker, Kubernetes, Serverless Architecture
-- 🔧 MLOps (DVC, MLflow), CI/CD (GitHub Actions, Jenkins)
+**Technical Proficiency:**
 
-**Development**
-- 🐍 Python, PyTorch
-- 🗄️ PostgreSQL, MongoDB, Redis
-- 🔄 Git, GitHub/GitLab Actions
+* **Languages**: Python, TypeScript/JavaScript  
+* **GenAI/LLM**s: Agents, RAG, MCP, Langchain, Agno, OpenAI, Anthropic, AI Evals & Governance  
+* **ML/Deep Learning**: PyTorch, Transformers, Computer Vision, Fine-tuning, OCR, Mlflow  
+* **Monitoring & Observability:** Prometheus, Grafana and OpenTelemetry  
+* **Vector Databases**: OpenSearch, Qdrant, PgVector  
+* **MLOps & Inference**: VLLM, SGLANG, RunAI, ONNX, TensorRT  
+* **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes, Terraform  
+* **Databases**: PostgreSQL, MongoDB, Redis  
+* **CI/CD**: GitHub Actions, GitLab CI/CD, Jenkins  
+* **AI-Assisted Coding**: GitHub Copilot, Cursor, Claude Code, Codex
 
-### 🌟 Featured Project
+**Education:**
 
-#### [MultiOCR](https://github.com/s-aravindh/multiocr) 
-A versatile OCR package that interfaces with multiple backends including:
-- Tesseract
-- PaddleOCR
-- EasyOCR
-- AWS Textract
-
-### 💼 Professional Journey
-- 🏦 **Senior AI Engineer** @ Credit Agricole Corporate Investment Bank (2022-Present)
-- 🤖 **ML Consultant** @ Intellect Design Arena (2020-2022)
-- 🔧 **ML Engineer** @ Studio Diseno & Throttle Aerospace (2015-2020)
-
-### 🎓 Education
-- 🎓 **Masters in Software Engineering** (8.7 CGPA)
-- 🎓 **Bachelors of Engineering** (8.9 CGPA)
-
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/imaravindh)
-- 📧 aravinds1293@hotmail.com
-
-### 📊 GitHub Stats
-![Aravindh's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-aravindh&show_icons=true&theme=radical)
+* **Masters of Technology** in Software Engineering \- BITS Pilani, 2024 | CGPA: 8.7/10  
+* **Bachelors of Engineering** in Aeronautics \- Anna University, Chennai, 2015 | CGPA: 8.9/10
