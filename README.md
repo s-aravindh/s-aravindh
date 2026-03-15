@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/imaravindh)
 # Aravindh Subbaraj 
 ### Professional Summary:
-**Lead AI Consultant with 10 years of experience** delivering production AI systems across banking, finance, insurance, and government sectors. Specialized in building enterprise Agentic AI  applications, RAG platforms, and fine-tuned LLMs that solve real business problems. Led teams and worked hands-on as IC to ship 15+ AI products serving 2000+ users with 95% satisfaction. Equally comfortable presenting AI strategy to C-suite, architecting cloud-agnostic solutions (AWS, GCP, on-premise), fine-tuning foundation models, and establishing AI governance frameworks for regulatory compliance.
+**AI Specialist and Architect with 10 years of experience** delivering production AI systems across banking, finance, insurance, and government sectors. Specialized in building enterprise Agentic AI  applications, RAG platforms, and fine-tuned LLMs that solve real business problems. Led teams and worked hands-on as IC to ship 15+ AI products serving 2000+ users with 95% satisfaction. Equally comfortable presenting AI strategy to C-suite, architecting cloud-agnostic solutions (AWS, GCP, on-premise), fine-tuning foundation models, and establishing AI governance frameworks for regulatory compliance.
 
 **Active contributor to the AI community**, mentoring students transitioning into AI careers through weekend technical sessions across US and European time zones, helping bridge the gap between traditional software engineering and modern AI development.
 
@@ -31,5 +31,5 @@
 
 ### Education:
 
-* **Masters of Technology** in Software Engineering \- BITS Pilani, 2024 | CGPA: 8.7/10  
-* **Bachelors of Engineering** in Aeronautics \- Anna University, Chennai, 2015 | CGPA: 8.9/10
+* **Masters of Technology** in Software Engineering \- BITS Pilani, 2024
+* **Bachelors of Engineering** in Aeronautics \- Anna University, Chennai, 2015
